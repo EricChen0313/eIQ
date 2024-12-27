@@ -1,0 +1,6 @@
+1 ace
+2 jack
+3 king
+4 nine
+5 queen
+6 ten
